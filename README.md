@@ -1,0 +1,2 @@
+# Proyecto_Logica_para_Ciencias_de_la_Computacion
+Proyecto Lógica 2
